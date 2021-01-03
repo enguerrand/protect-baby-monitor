@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Child Monitor</string>
+    <string name="action_settings">设置</string>
+    <string name="useAsParentDevice">用作主设备</string>
+    <string name="useAsChildDevice">用作子设备</string>
+    <string name="childDescription">设备与婴儿一起放置，并将音频发送到配对的主设备</string>
+    <string name="parentDescription">与子设备配对并播放接收到的音频</string>
+    <string name="childDevice">子设备</string>
+    <string name="serviceTitle">服务：</string>
+    <string name="serviceDescription">主设备必须配对的服务的名称</string>
+    <string name="loading">加载中......</string>
+    <string name="stopped">已停止</string>
+    <string name="streaming">串流中......</string>
+    <string name="waitingForParent">等待主设备中......</string>
+    <string name="parentDevice">主设备</string>
+    <string name="selectChildDevice">选择子设备：</string>
+    <string name="status">状态：</string>
+    <string name="connectedTo">已连接到：</string>
+    <string name="disconnected">断开连接</string>
+    <string name="listening">监听中......</string>
+    <string name="addressTitle">地址：</string>
+    <string name="portTitle">端口：</string>
+    <string name="notConnected">未连接到任何网络</string>
+    <string name="enterAddressInstructions">输入子设备的 IP 地址和端口并点击“连接”</string>
+    <string name="connect">连接</string>
+    <string name="exampleAddress">192.168.1.2</string>
+    <string name="examplePort">10000</string>
+    <string name="invalidPort">要么没有输入端口，要么端口无效</string>
+    <string name="invalidAddress">需要填写地址字段</string>
+    <string name="discoverChild">发现同一网络上的子设备</string>
+    <string name="discoverChildDescription">从网络上发现的子设备列表中选择一台设备</string>
+    <string name="enterChildAddress">按地址选择子设备</string>
+    <string name="enterChildAddressDescription">输入子设备的地址和端口</string>
+</resources>
