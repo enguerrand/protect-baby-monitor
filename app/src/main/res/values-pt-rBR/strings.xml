@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Monitor para crianças</string>
+    <string name="action_settings">Configurações</string>
+    <string name="useAsParentDevice">Usar como Dispositivo de Pais</string>
+    <string name="useAsChildDevice">Usar como Dispositivo para Crianças</string>
+    <string name="childDescription">O dispositivo é colocado com o bebê para enviar áudio a um Dispositivo de Pais conectado</string>
+    <string name="parentDescription">Conecta com o Dispositivo para Crianças e reproduz o áudio recebido</string>
+    <string name="childDevice">Dispositivo para Crianças</string>
+    <string name="serviceTitle">Serviço:</string>
+    <string name="serviceDescription">Nome do serviço ao qual os pais devem se conectar</string>
+    <string name="loading">Carregando...</string>
+    <string name="stopped">Parado</string>
+    <string name="streaming">Transmitindo...</string>
+    <string name="waitingForParent">Esperando os Pais...</string>
+    <string name="parentDevice">Dispositivo de Pais</string>
+    <string name="selectChildDevice">Selecione o Dispositivo para Crianças:</string>
+    <string name="status">Status:</string>
+    <string name="connectedTo">Conectado a:</string>
+    <string name="disconnected">Desconectado</string>
+    <string name="listening">Ouvindo...</string>
+    <string name="addressTitle">Endereços:</string>
+    <string name="portTitle">Porta:</string>
+    <string name="notConnected">Não conectado a nenhuma rede</string>
+    <string name="enterAddressInstructions">Digite o endereço IP e a Porta de Dispositivo para Criança e clique em Conectar</string>
+    <string name="connect">Conectar</string>
+    <string name="exampleAddress">192.168.1.2</string>
+    <string name="examplePort">10000</string>
+    <string name="invalidPort">Ou não foi digitada nenhuma Porta ou é inválida</string>
+    <string name="invalidAddress">O campo de endereço precisa ser preenchido</string>
+    <string name="discoverChild">Descubra o Dispositivo para Criança na Rede</string>
+    <string name="discoverChildDescription">Selecione um Dispositivo para Criança de uma lista que foi encontrada na rede</string>
+    <string name="enterChildAddress">Selecione Dispositivo para Criança por Endereço</string>
+    <string name="enterChildAddressDescription">Digite o endereço e a Porta de Dispositivo para Criança</string>
+</resources>
